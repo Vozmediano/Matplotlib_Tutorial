@@ -2,7 +2,7 @@
 
 ![Matplotlib](https://github.com/Vozmediano/Matplotlib_Tutorial/assets/140751734/65057ed8-81e0-4ef3-96ce-182f36a70e3a)
 
-En este tutorial vamos a ver la libreria Matplotlib, muy utilizada para la visualizacion de datos y generación de gráficos en dos dimensiones a partir de datos contenidos en listas o arrays en el lenguaje de programación Python.
+En este tutorial en Python vamos a ver la libreria Matplotlib, muy utilizada para la visualizacion de datos y generación de gráficos en dos dimensiones a partir de datos contenidos en listas o arrays.
 
 
   - Crear grafica basica
