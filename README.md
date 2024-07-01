@@ -16,6 +16,6 @@ En este tutorial en Python vamos a ver la libreria Matplotlib, muy utilizada par
   - Otras graficas
 
 Para los ejemplos se han utilizado dos bases de datos (incluidas en el repositorio) con ellas se pueden hacer los ejercicios que contiene el tutorial pero se puede usar otra. Esto ayuda a ver los ejercicios y las funciones con datos reales. 
-La data utilizada es la del precio de la vivienda en madrid y del indice de felicidad, las dos se pueden descargar sin problemas del propio repositorio o buscar otras opciones, Kaggle es muy buena opcion para la busqueda de data bien estructurada y limpia.
+La data utilizada es la del precio de la vivienda en madrid y del indice de felicidad (Advertising), las dos se pueden descargar sin problemas del propio repositorio o buscar otras opciones, Kaggle es muy buena opcion para la busqueda de data bien estructurada y limpia.
 
 Espero que este tutorial sirva de ayuda!!! :)
