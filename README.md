@@ -1,6 +1,5 @@
-# Matplotlib_Tutorial
 
-![Matplotlib](https://github.com/Vozmediano/Matplotlib_Tutorial/assets/140751734/65057ed8-81e0-4ef3-96ce-182f36a70e3a)
+![Matplotlib](https://github.com/user-attachments/assets/c35e2f07-20d4-4e4b-afcb-e9a2e4eb8c0b)
 
 # ![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue) ![Badge LENGUAJE](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=white&logoSize=auto) ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green) ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2) ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
