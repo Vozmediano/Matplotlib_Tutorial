@@ -2,7 +2,7 @@
 
 ![Matplotlib](https://github.com/Vozmediano/Matplotlib_Tutorial/assets/140751734/65057ed8-81e0-4ef3-96ce-182f36a70e3a)
 
-# ![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue) ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green) ![Badge DISFRUTALO](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=WHITE&logoSize=auto) ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2) ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+# ![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue) ![Badge LENGUAJE](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=white&logoSize=auto) ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green) ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2) ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 
 En este tutorial en Python vamos a ver la libreria Matplotlib, muy utilizada para la visualizacion de datos y generación de gráficos en dos dimensiones a partir de datos contenidos en listas o arrays. El tutorial se divide en los siguientes puntos:
